@@ -1,6 +1,6 @@
 # SOC Automation with Wazuh, TheHive, and Shuffle (DigitalOcean Deployment)
 
-## 📌 Project Overview
+## Project Overview
 This project demonstrates how to automate Security Operations Center (SOC) workflows by integrating:
 - **Wazuh** for log collection, SIEM functionality, and threat detection
 - **TheHive** for security incident management and response
@@ -10,7 +10,7 @@ All components are deployed on **DigitalOcean** cloud infrastructure using separ
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 
 | Tool        | Role                                               |
 |-------------|----------------------------------------------------|
