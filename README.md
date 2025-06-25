@@ -10,14 +10,6 @@ All components are deployed on **DigitalOcean** cloud infrastructure using separ
 
 ---
 
-## 🧱 Architecture Overview
-
-The system processes alerts from monitored endpoints via Wazuh agents, sends them through Shuffle for enrichment and correlation, and then creates structured incidents in TheHive. Analysts are notified with enriched details, streamlining response efforts.
-
-![SOC Architecture](soc architecture diagram.png)
-
----
-
 ## 🧰 Tools Used
 
 | Tool        | Role                                               |
